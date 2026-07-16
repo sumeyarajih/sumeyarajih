@@ -1,15 +1,16 @@
 # Hi there, I'm Sumeya Rajih! 👋 
 
-I am a **5th-Year Software Engineering Student** specializing in building beautiful, high-performance **Flutter Mobile Applications** and **Full-Stack Web Apps** (React, Next.js, Node.js). 
+I am a **5th-Year Software Engineering Student** specializing in building high-performance **Flutter Mobile Applications** and **Full-Stack Web Apps** (React, Next.js, Node.js). 
 
-I love bridging the gap between clean, scalable code and beautiful, human-centric design.
+I bridge the gap between clean, scalable code, user-centric product design, and dynamic visual storytelling.
 
 ---
 
 ### 💻 What I Do Best:
-* 📱 **Mobile Dev:** Crafting seamless iOS & Android apps with Flutter.
+* 📱 **Mobile Dev:** Crafting seamless iOS & Android apps with Flutter & elegant state management.
 * 🌐 **Full-Stack Web:** Writing responsive frontend interfaces in React/Next.js integrated with secure Node.js APIs & SQL databases (PostgreSQL/MySQL).
-* 🎨 **UI/UX & Creative:** Designing user journeys in Figma and editing polished video content.
+* 🎨 **UI/UX Design:** Wireframing, user-testing, and prototyping clean interfaces in Figma.
+* 🎬 **Video Editing:** Transforming complex tech concepts or brand narratives into engaging, polished video content with seamless transitions, color grading, and crisp pacing.
 
 ---
 
@@ -17,22 +18,29 @@ I love bridging the gap between clean, scalable code and beautiful, human-centri
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Mobile** | Flutter, Dart, Bloc, Provider, Firebase |
-| **Frontend** | React.js, Next.js, JavaScript, Tailwind CSS, HTML/CSS |
-| **Backend & DB**| Node.js, Express, PostgreSQL, MySQL, REST APIs |
-| **Design & Media**| Figma, Adobe Premiere Pro, CapCut |
-| **Workflows** | Git, GitHub, Postman, Agile |
+| **Mobile Development** | Flutter, Dart, Bloc, Provider, Firebase |
+| **Frontend Web** | React.js, Next.js, JavaScript, Tailwind CSS, HTML5, CSS3 |
+| **Backend & Databases**| Node.js, Express, PostgreSQL, MySQL, REST APIs |
+| **Design & UI/UX** | Figma, Adobe XD, Wireframing, Interactive Prototyping |
+| **Video Production** | Adobe Premiere Pro, CapCut, After Effects, DaVinci Resolve |
+| **Workflows & Version** | Git, GitHub, Postman, Agile/Scrum |
+
+---
+
+### 🎬 Creative Portfolio & Video Editing Showcases
+* 📽️ **Video Editing Reel:** [Link to your Video Showreel/TikTok/YouTube]
+* 🎨 **UI/UX Case Studies:** [Link to your Figma/Behance portfolio]
+* 💻 **Featured Project:** [Link to your best Flutter or React GitHub repository]
 
 ---
 
 ### 📫 Let's Connect!
-I am actively looking for **Remote Internships** and **Junior/Associate software engineering positions** (both in Ethiopia and on-site in Dubai).
+I am actively preparing to relocate to **Dubai** for on-site software roles upon graduation and am open to **Remote Internships** globally.
 
-* 📧 **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* 🎨 **UI/UX Portfolio:** [Link to your Figma/Behance portfolio]
+* 📧 **Email:** [sumeyarajih@gmail.com].
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/sumeya-rajih-1130a52b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 
 ---
 <p align="center">
-  <sub>Built with 💖 and Dart.</sub>
+  <sub>Built with 💖, Dart, and Keyframes.</sub>
 </p>
