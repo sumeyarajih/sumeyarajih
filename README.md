@@ -21,8 +21,8 @@ I bridge the gap between clean, scalable code, user-centric product design, and 
 | **Mobile Development** | Flutter, Dart, Bloc, Provider, Firebase |
 | **Frontend Web** | React.js, Next.js, JavaScript, Tailwind CSS, HTML5, CSS3 |
 | **Backend & Databases**| Node.js, Express, PostgreSQL, MySQL, REST APIs |
-| **Design & UI/UX** | Figma, Adobe XD, Wireframing, Interactive Prototyping |
-| **Video Production** | Adobe Premiere Pro, CapCut, After Effects, DaVinci Resolve |
+| **Design & UI/UX** | Figma, Wireframing, Interactive Prototyping |
+| **Video Production** | Adobe Premiere Pro, CapCut, After Effects, |
 | **Workflows & Version** | Git, GitHub, Postman, Agile/Scrum |
 
 ---
@@ -38,7 +38,7 @@ I bridge the gap between clean, scalable code, user-centric product design, and 
 I am actively preparing to relocate to **Dubai** for on-site software roles upon graduation and am open to **Remote Internships** globally.
 
 * 📧 **Email:** [sumeyarajih@gmail.com].
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/sumeya-rajih-1130a52b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/sumeya-rajih]
 
 ---
 <p align="center">
