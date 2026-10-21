@@ -27,10 +27,7 @@ I bridge the gap between clean, scalable code, user-centric product design, and 
 
 ---
 
-### 🎬 Creative Portfolio & Video Editing Showcases
-* 📽️ **Video Editing Reel:** [Link to your Video Showreel/TikTok/YouTube]
-* 🎨 **UI/UX Case Studies:** [Link to your Figma/Behance portfolio]
-* 💻 **Featured Project:** [Link to your best Flutter or React GitHub repository]
+
 
 ---
 
